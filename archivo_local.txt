@@ -1,1 +1,1 @@
-editnado el archivo local desde la rama master
+editando el archivo local desde la rama master (secundaria)
